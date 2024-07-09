@@ -258,6 +258,7 @@
     max-width: 200px;
     height: auto;
     align-items: center;
+    padding-top: 200px;
 }
 .topheader .logo .logo-content .logo-pic h1 {
     font-weight: 600;
@@ -299,6 +300,7 @@
 .topheader .right-column {
     min-width: 300px;
     float: right;
+    margin-top: -30%;
 }
 
 .topheader .right-column .top-right-image {
